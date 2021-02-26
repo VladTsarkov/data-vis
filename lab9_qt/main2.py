@@ -92,7 +92,7 @@ class Example(QWidget):
         self.setGeometry(300, 300, 280, 170)
         self.setWindowTitle('QProgressBar')
         #self.show()
-        self.textProgressBar = QtWidgets.QLabel('Qlabel')
+        self.textProgressBar = QtWidgets.QLabel('QProgressBar')
         '''progressBar = QtWidgets.QProgressBar()
         buttonPB = QtWidgets.QPushButton('Старт')
         buttonPB.clicked.connect(doAction)
@@ -132,7 +132,7 @@ class Example(QWidget):
         else:
             self.timer.start(100, self)
             self.buttonPB.setText('Stop')
-            
+
     def changeValue(self, value):
         self.textSlider2.setText(str(value))
 
