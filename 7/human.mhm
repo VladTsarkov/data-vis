@@ -1,0 +1,37 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags human
+camera 16.5 36.5219088788 0.712696350466 0.0882265040578 -0.212605342201 1.5
+modifier eyes/l-eye-bag-in|out 0.990000
+modifier eyes/l-eye-epicanthus-in|out -0.652000
+modifier macrodetails-universal/Muscle 0.000000
+modifier macrodetails/African 0.244108
+modifier macrodetails-proportions/BodyProportions 0.538000
+modifier eyes/r-eye-bag-decr|incr 0.794000
+modifier macrodetails/Gender 1.000000
+modifier macrodetails-height/Height 0.467000
+modifier breast/BreastSize 0.500000
+modifier ears/r-ear-scale-decr|incr 0.718000
+modifier chin/chin-cleft-decr|incr 0.674000
+modifier eyes/l-eye-bag-decr|incr 0.968000
+modifier macrodetails/Age 0.500000
+modifier eyes/l-eye-bag-height-decr|incr 1.000000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 0.065892
+modifier macrodetails/Caucasian 0.690000
+modifier chin/chin-jaw-drop-decr|incr 0.706000
+modifier eyes/r-eye-bag-in|out 1.000000
+modifier eyes/r-eye-bag-height-decr|incr 1.000000
+modifier chin/chin-prognathism-decr|incr 0.848000
+modifier ears/l-ear-scale-decr|incr 0.544000
+modifier macrodetails-universal/Weight 1.000000
+modifier eyes/l-eye-height2-decr|incr 0.598000
+skeleton cmu_mb.mhskel
+eyebrows eyebrow009 55b3b52a-379e-426d-b320-562ed57202b3
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+pose sit01.bvh
+clothesHideFaces True
+expression disgust01.mhpose
+skinMaterial skins/default.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False
